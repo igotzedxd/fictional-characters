@@ -1,0 +1,66 @@
+[
+  {
+    "irl": "Bryan Cranston",
+    "character": "Walter White",
+    "show": "Breaking Bad",
+    "image": "../img/Walter_White.png",
+    "img": "../img/Walter_White_2.webp",
+    "cover": "../img/cover_1.jpg"
+  },
+  {
+    "irl": "Aaron Paul",
+    "character": "Jesse Pinkman",
+    "show": "Breaking Bad",
+    "image": "../img/Jesse_Pinkman.png",
+    "img": "../img/Jesse_Pinkman_2.webp",
+    "cover": "../img/cover_2.jpg"
+  },
+  {
+    "irl": "Bob Odenkirk",
+    "character": "Saul Goodman",
+    "show": "Breaking Bad",
+    "image": "../img/Bob_Odenkirk.webp",
+    "img": "../img/Bob_Odenkirk_2.webp",
+    "cover": "../img/cover_3.jpg"
+  },
+  {
+    "irl": "Jonathan Banks",
+    "character": "Mike Ehrmantraut",
+    "show": "Breaking Bad",
+    "image": "../img/Mike_Ehrmantraut.png",
+    "img": "../img/Mike_Ehrmantraut_2.png",
+    "cover": "../img/cover_4.jpg"
+  },
+  {
+    "irl": "Dean Norris",
+    "character": "Hank Schrader",
+    "show": "Breaking Bad",
+    "image": "../img/Hank_Schrader.webp",
+    "img": "../img/Hank_Schrader_2.webp",
+    "cover": "../img/cover_1.jpg"
+  },
+  {
+    "irl": "Rj Mitte",
+    "character": "Walt Jr",
+    "show": "Breaking Bad",
+    "image": "../img/Walt_Jr.webp",
+    "img": "../img/Walt_Jr_2.webp",
+    "cover": "../img/cover_1.jpg"
+  },
+  {
+    "irl": "Jesse Plemons",
+    "character": "Todd Alquist",
+    "show": "Breaking Bad",
+    "image": "../img/Jesse_Plemons.jpeg",
+    "img": "../img/Todd_Alquist_2.webp",
+    "cover": "../img/cover_1.jpg"
+  },
+  {
+    "irl": "Giancarlo Esposito",
+    "character": "Gustavo Fring",
+    "show": "Breaking Bad",
+    "image": "../img/Giancarlo_Esposito.jpg",
+    "img": "../img/Gustavo_Fring_2.webp",
+    "cover": "../img/cover_1.jpg"
+  }
+]
