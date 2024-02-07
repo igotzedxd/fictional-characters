@@ -1,6 +1,6 @@
 async function fetchCharacters() {
   try {
-    const response = await fetch("../data/characters.json");
+    const response = await fetch("./data/characters.json");
     const characters = await response.json();
     return characters;
   } catch (error) {
@@ -141,3 +141,5 @@ app.init = () => {
 };
 
 app.init();
+
+
