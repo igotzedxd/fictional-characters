@@ -5,7 +5,8 @@
     "show": "Breaking Bad",
     "image": "../img/Walter_White.png",
     "img": "../img/Walter_White_2.webp",
-    "cover": "../img/cover_1.jpg"
+    "cover": "../img/cover_1.jpg",
+    "about": "Walter White, a high school chemistry teacher turned methamphetamine manufacturing kingpin, is a character whose transformation drives the narrative of Breaking Bad. Initially a sympathetic figure faced with a terminal cancer diagnosis and financial ruin, Walter adopts the alias Heisenberg to secure his family's future. As he descends into the drug trade, his moral compass skews, and he becomes embroiled in violence and power struggles, showcasing a complex character arc from desperation to dominance."
   },
   {
     "irl": "Aaron Paul",
@@ -13,7 +14,8 @@
     "show": "Breaking Bad",
     "image": "../img/Jesse_Pinkman.png",
     "img": "../img/Jesse_Pinkman_2.webp",
-    "cover": "../img/cover_2.jpg"
+    "cover": "../img/cover_2.jpg",
+    "about": "Jesse Pinkman, initially Walter White's former student and reluctant partner in meth production, evolves from a misguided youth into a complex character haunted by guilt and seeking redemption. Throughout Breaking Bad, Jesse's journey is marked by his struggle with his conscience, loyalty, and the devastating consequences of the drug trade. His relationship with Walter oscillates between familial bond and bitter enmity, highlighting Jesse's profound transformation and quest for self-forgiveness amidst chaos."
   },
   {
     "irl": "Bob Odenkirk",
@@ -21,15 +23,17 @@
     "show": "Breaking Bad",
     "image": "../img/Bob_Odenkirk.webp",
     "img": "../img/Bob_Odenkirk_2.webp",
-    "cover": "../img/cover_3.jpg"
+    "cover": "../img/cover_3.jpg",
+    "about": "Saul Goodman, the flamboyant criminal lawyer in Breaking Bad, embodies the quintessential sleazy attorney with a penchant for bending the law to his advantage. Born Jimmy McGill, Saul reinvents himself as a colorful, quick-witted lawyer who provides legal cover for criminals while profiting from the murky waters of the criminal underworld. His clever schemes and moral flexibility make him a key player in Albuquerque's drug scene, yet beneath his gaudy exterior lies a complex character grappling with his past and identity, a theme further explored in the prequel series Better Call Saul."
   },
   {
     "irl": "Jonathan Banks",
     "character": "Mike Ehrmantraut",
     "show": "Breaking Bad",
-    "image": "../img/Mike_Ehrmantraut.png",
+    "image": "../img/Mike_Ehrmantraut.webp",
     "img": "../img/Mike_Ehrmantraut_2.png",
-    "cover": "../img/cover_4.jpg"
+    "cover": "../img/cover_4.jpg",
+    "about": "Mike Ehrmantraut is a former Philadelphia police officer turned enforcer for Gus Fring and, later, a crucial associate of Saul Goodman. Stoic, meticulous, and fiercely loyal, Mike is a man of few words but profound depth, driven by a code of honor that often puts him at odds with the more volatile elements of the criminal world he inhabits. His expertise in surveillance, combat, and problem-solving make him an invaluable asset in the drug trade, yet his motivations are deeply personal, rooted in providing for his beloved granddaughter and atoning for past sins. Mike's character arc explores themes of morality, redemption, and the inescapable consequences of one's choices."
   },
   {
     "irl": "Dean Norris",
@@ -37,7 +41,8 @@
     "show": "Breaking Bad",
     "image": "../img/Hank_Schrader.webp",
     "img": "../img/Hank_Schrader_2.webp",
-    "cover": "../img/cover_1.jpg"
+    "cover": "../img/cover_1.jpg",
+    "about": "Hank Schrader is a dedicated DEA agent known for his determination and straightforward approach in the series Breaking Bad. His character is defined by a deep commitment to justice, which drives his relentless pursuit of drug traffickers, including the elusive Heisenberg, who is unknowingly his brother-in-law, Walter White. Hank's journey through the series is filled with both professional victories and personal challenges, showcasing his resilience against the backdrop of danger and moral ambiguity. Despite his tough demeanor, Hank's actions are deeply rooted in his love for his family and his unwavering sense of duty, making his story one of courage and complexity."
   },
   {
     "irl": "Rj Mitte",
@@ -45,15 +50,17 @@
     "show": "Breaking Bad",
     "image": "../img/Walt_Jr.webp",
     "img": "../img/Walt_Jr_2.webp",
-    "cover": "../img/cover_1.jpg"
+    "cover": "../img/cover_1.jpg",
+    "about": "Walt Jr., also known as Flynn, is the son of Walter and Skyler White in the series Breaking Bad. Living with cerebral palsy, he represents innocence and the everyday challenges faced by a typical American family navigating personal and financial hardships. Walt Jr.'s character is a symbol of normalcy and vulnerability amidst the chaotic world of crime that his father becomes involved in. His journey is marked by his struggles with family dynamics, his quest for independence, and his reactions to the escalating series of lies and dangerous situations that envelop his family."
   },
   {
     "irl": "Jesse Plemons",
     "character": "Todd Alquist",
     "show": "Breaking Bad",
-    "image": "../img/Jesse_Plemons.jpeg",
+    "image": "../img/Jesse_Plemons.jpg",
     "img": "../img/Todd_Alquist_2.webp",
-    "cover": "../img/cover_1.jpg"
+    "cover": "../img/cover_1.jpg",
+    "about": "Todd Alquist emerges in Breaking Bad as a seemingly polite and unassuming character who quickly reveals a chilling capacity for violence and loyalty to his criminal associates. Working for his uncle's white supremacist gang and becoming involved in the methamphetamine business alongside Walter White, Todd's demeanor belies his true nature. He is instrumental in some of the series' most harrowing moments, demonstrating a disconcerting detachment from the brutality of his actions. Todd's complex blend of courteous manners and ruthless behavior exemplifies the show's exploration of the dark potential lurking within seemingly ordinary individuals."
   },
   {
     "irl": "Giancarlo Esposito",
@@ -61,6 +68,7 @@
     "show": "Breaking Bad",
     "image": "../img/Giancarlo_Esposito.jpg",
     "img": "../img/Gustavo_Fring_2.webp",
-    "cover": "../img/cover_1.jpg"
+    "cover": "../img/cover_1.jpg",
+    "about": "Gustavo Fring stands as one of the most enigmatic figures in Breaking Bad, masterfully balancing the dual life of a respected businessman and a ruthless drug lord. Owner of the fast-food chain Los Pollos Hermanos, Gus presents himself to the world as a model citizen and generous philanthropist. However, beneath this veneer of respectability lies a calculating and cold-hearted criminal mastermind who meticulously controls a vast drug empire with an iron fist. Gus's strategic brilliance and unforgiving nature make him a formidable adversary, particularly to Walter White."
   }
 ]
