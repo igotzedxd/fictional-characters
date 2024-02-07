@@ -83,7 +83,7 @@ body {
 .grid-view {
   height: 500px;
   width: 350px;
-  border: 2px solid black;
+  border: 2px solid rgb(70, 74, 88);
   margin-bottom: 5vh;
   position: relative;
   border-radius: 20px 20px 20px 20px;
