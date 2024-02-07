@@ -101,6 +101,7 @@ app.init = () => {
         lastImage.setAttribute("src", character.image);
       });
     });
+    modalEvents();
   };
 
   const renderModal = (index) => {
