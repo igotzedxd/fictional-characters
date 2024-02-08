@@ -67,7 +67,7 @@ body {
   background: rgba(256, 256, 256, 0.1);
 }
 
-.card::before {
+.grid-view::before {
   content: "";
   position: absolute;
   top: 0;
@@ -133,6 +133,7 @@ body {
   border: 1px solid black;
   border-radius: 9999px;
   background: #303452;
+  box-shadow: 3px 3px 10px rgb(43, 46, 71);
 }
 
 .content {
